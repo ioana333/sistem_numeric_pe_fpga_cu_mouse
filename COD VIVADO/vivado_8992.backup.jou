@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Sun Jun 02 12:51:39 2024
+# Process ID: 8992
+# Current directory: D:/SCOALA/FACULTATE/II/PSN/PROIECT/PROIECT/UC
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21140 D:\SCOALA\FACULTATE\II\PSN\PROIECT\PROIECT\UC\UC.xpr
+# Log file: D:/SCOALA/FACULTATE/II/PSN/PROIECT/PROIECT/UC/vivado.log
+# Journal file: D:/SCOALA/FACULTATE/II/PSN/PROIECT/PROIECT/UC\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/SCOALA/FACULTATE/II/PSN/PROIECT/PROIECT/UC/UC.xpr
