@@ -1,0 +1,10 @@
+# Setează toate fișierele VHDL ca limbaj principal
+*.vhd linguist-language=VHDL
+*.vhdl linguist-language=VHDL
+
+# Exclude fișierele care nu sunt cod sursă
+*.md linguist-detectable=false
+*.txt linguist-detectable=false
+*.json linguist-detectable=false
+*.xml linguist-detectable=false
+*.log linguist-detectable=false
