@@ -15,3 +15,5 @@
 *.xml linguist-detectable=false
 *.md linguist-detectable=false
 *.txt linguist-detectable=false
+*.png linguist-detectable=false
+*.jpg linguist-detectable=false
